@@ -8,8 +8,6 @@
 
 <p align="center">
 	<a href="https://www.instagram.com/develoxb"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:eloxbdeveloper@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
 </p>
 
 
@@ -107,8 +105,5 @@
   <img src="https://img.shields.io/badge/@qubik.timer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-<a href="mailto:eloxbdeveloper@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
 <br>
